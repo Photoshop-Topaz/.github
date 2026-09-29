@@ -42,7 +42,7 @@ Photoshop Topaz can be especially useful when an image requires additional clari
 
 ## What It Looks Like
 
-![Interface](https://topazlabs.com/wp-content/uploads/2020/08/topaz-labs-sharpen-ai-screenshot-image-sharpen-software.png)
+![Interface](https://www.elegantthemes.com/blog/wp-content/uploads/2023/11/topaz-user-interface-v2.jpg)
 
 ---
 
